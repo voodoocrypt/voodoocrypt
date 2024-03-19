@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello, I'm VooDooCrypt! 👋
+
+## About Me
+I'm a student at [BloomTech](https://www.bloomtech.com/), where I'm diving deep into the world of Software Engineering and Full Stack Web Development. I'm on a journey to absorb knowledge from every possible avenue and am passionate about exploring the intricacies of coding. My ultimate goal is to carve out a career in the exciting field of cybersecurity, where I can make a real impact.
 
 <!--
 **voodoocrypt/voodoocrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
